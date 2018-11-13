@@ -1,4 +1,4 @@
-import { use } from 'rndm-render';
+import { use } from '@rndm/render';
 import _ from 'lodash';
 
 const plugin = {
